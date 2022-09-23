@@ -6,11 +6,19 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'état (_state_) pour contrôler l'affichage d'un composant ❌ / ✔️
-- les composants enfants et les _props_ qu'on leur passe ❌ / ✔️
-- le déclenchement d'instructions en fonction des actions de l'utilisateur ❌ / ✔️
-- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ❌ / ✔️
-- l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
+- l'état (_state_) pour contrôler l'affichage d'un composant ✔️
+
+
+- les composants enfants et les _props_ qu'on leur passe ✔️
+
+
+- le déclenchement d'instructions en fonction des actions de l'utilisateur ✔️
+
+
+- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ✔️
+Utilisation de UseEffect : sans tableau de dépendance mise à jour du composant à chaque render, avec un tableau de dépendance vide lorsque le composant est monté dans le DOM, avec un tableau de dépendance pour que le composant se mette à jour seulement s'il y a des modifications dans le tableau de dépendance, si on ajoute un return dans le UseEffect cela permet un cleanup lors de l'unmount du composant. 
+
+- l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant ❌ / ✔️
 - l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ / ✔️
 
 ## 💻 J'utilise
@@ -19,7 +27,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github][(...)](https://github.com/SandraVsn/tswilderbook)
 
 Description :
 
