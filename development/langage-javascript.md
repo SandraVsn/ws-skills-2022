@@ -7,8 +7,17 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les `structures` de base du langage ✔️
+Langage dont le typage est faible et dynamique 
+Il existe différents types de données : string, number, boolean, null, undefined, array, object
+Utilisation de fonctions natives (math, map, parseInt ...)
+Creations de fonctions 
+
 - les normes `ecmascript` ✔️
+Elles permettent la standardisation des langages de script 
+
 - l'utilisation de l'`asynchrone` ✔️
+
+
 - les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
