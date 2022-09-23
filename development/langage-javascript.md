@@ -26,7 +26,7 @@ async/await avec des blocs try/catch/(finally)
 
 ### Un exemple de code commenté ✔️
 
-Appel à l'API du gou
+Appel à l'API du gouvernement pour récupérer des adresses
 
 ```javascript
 document.querySelector("#adresse").addEventListener("input", (event) => {
