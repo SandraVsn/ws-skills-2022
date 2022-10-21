@@ -68,9 +68,9 @@ Description : Récupération de données et affichage dynamique.
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-Description :
+Description : utilisation de Javascript en front avec le framework vueJS et en back avec le framework NestJS 
 
 ## 🌐 J'utilise des ressources
 
