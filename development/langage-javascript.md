@@ -20,7 +20,8 @@ Permet au programme de démarrer une tâche dont on ne connait pas la durée d'e
 .then/.catch
 async/await avec des blocs try/catch/(finally)
 
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les spécifités du mot-clef `this` ✔️
+En dehors d'une fonction / classe, this fait référence à l'objet global (ex: si l'environnement de script est un navigateur l'objet window sera l'objet global). A l'intérieur d'une fonction (méthode, class, constructeur d'objet ...), this représente l'objet en cours de manipulation. 
 
 ## 💻 Je code en Javascript
 
