@@ -1,6 +1,5 @@
 # REST API
 
-> ❌ A travailler
 
 > ✔️ Auto validation par l'étudiant
 
