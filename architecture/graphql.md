@@ -38,9 +38,9 @@ Description :
 
 ### Utilisation en production si applicable❌ / ✔️
 
-[lien du projet](...)
+[Wait it](...)
 
-Description :
+Description : Projet de groupe de l'année
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
