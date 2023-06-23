@@ -34,11 +34,9 @@ Pour les applications hybrides : Apache Cordova, Ionic, React Native, Flutter.
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
-
-Description :
+[lien github](https://github.com/WildCodeSchool/2209-wns-adleman-bordolamif) Description : projet de groupe de l'année
 
 ### Utilisation en production si applicable ❌ / ✔️
 
