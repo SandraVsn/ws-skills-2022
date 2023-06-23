@@ -32,13 +32,16 @@ Les Subscriptions en GraphQL sont utilisées pour permettre aux clients de s'abo
 
 ### Utilisation dans un projet ✔️
 
-[lien github](https://github.com/WildCodeSchool/2209-wns-adleman-bordolamif)
+[lien github](https://github.com/WildCodeSchool/2209-wns-adleman-bordolamif) 
+Description : Projet de groupe de l'année
 
 Description :
 
 ### Utilisation en production si applicable❌ / ✔️
 
-[Wait it](...) Description : Projet de groupe de l'année
+[Lien github](...) 
+Description :
+
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
